@@ -1,4 +1,3 @@
-```python
 # Ejemplos de Ecología Espacial
 
 La ecología espacial es un campo de estudio que se enfoca en cómo las interacciones entre los organismos y su entorno físico varían en función de la escala espacial y temporal. En otras palabras, se interesa por entender cómo las características del paisaje, la distribución de los recursos y las condiciones ambientales afectan a la ecología y evolución de los organismos. 
@@ -24,10 +23,3 @@ La ecología espacial también se utiliza para estudiar cómo se propagan las en
 La ecología espacial también es importante para entender cómo los organismos evolucionan en respuesta a su entorno. Por ejemplo, los investigadores pueden estudiar cómo las diferentes condiciones ambientales (como la disponibilidad de alimento, la temperatura o la humedad) afectan a la selección natural y a la evolución de las características físicas y comportamentales de una especie. 
 
 Estos son sólo algunos ejemplos de cómo se puede aplicar la ecología espacial en diferentes áreas de estudio. En general, la ecología espacial es una herramienta muy útil para entender las complejas interacciones entre los organismos y su entorno y para diseñar estrategias de manejo y conservación más efectivas.
-
-```
-
-
-```python
-
-```
